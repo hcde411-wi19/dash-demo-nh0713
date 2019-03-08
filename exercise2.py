@@ -12,7 +12,7 @@ app.layout = html.Div(children=[
     html.H1(children='Scatter Plot'),
 
     html.Div(children='''
-        A demo to show a scatter plot.
+        Shows that price increases with Horsepower
     '''),
 
     dcc.Graph(
